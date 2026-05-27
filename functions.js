@@ -15,7 +15,7 @@ function add(x, y) {
 let greeting = greet("Alice");
 let sum = add(5, 10);
 
-console.log(greeting); //hello, Alice
+console.log(greeting); //Hello, Alice!
 console.log("Total is: " + sum); //15
 
 
