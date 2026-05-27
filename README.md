@@ -5,13 +5,12 @@ This project serves as an implementation focused on practicing  building structu
 
 This project was was built as a pairs:
 
-* * OwamGobs
+* OwamGobs
 
   *Set up the core repository architecture 
   * Designed and built the standard function and return  
 
- 
-* *KrishendreeX
+* KrishendreeX
   
   * Call out the variables and gave them a result 
   * Managed comprehensive code debugging, scope syntax correction, and technical documentation.
