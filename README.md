@@ -7,7 +7,7 @@ This project was was built as a pairs:
 
 * OwamGobs
 
-  *Set up the core repository architecture 
+  * Set up the core repository architecture 
   * Designed and built the standard function and return  
 
 * KrishendreeX
